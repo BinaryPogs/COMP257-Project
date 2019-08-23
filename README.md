@@ -1,0 +1,1 @@
+## This is our group project for COMP257 where we examine a data set and apply analysis and predictive modelling to discover and report trends on the dataset we have chosen.
